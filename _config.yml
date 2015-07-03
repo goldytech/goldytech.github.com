@@ -8,9 +8,9 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Getting deep into .net
-tagline: Your HowTo guide for .net
-author : Muhammad Afzal
+title : Jekyll Bootstrap
+tagline: Site Tagline
+author :
   name : goldytech
   email : afzal.qureshi@outlook.com
   github : goldytech
